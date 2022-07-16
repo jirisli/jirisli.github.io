@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a final year PhD candidate I am also an affiliated
+Welcome! I am a final year PhD candidate in Finance. I am also an affiliated
 researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
 and a research collaborator with the 
 [Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
