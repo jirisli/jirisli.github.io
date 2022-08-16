@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "The price of COVID-19-induced uncertainty in the options market"
 collection: publications
 permalink: /publication/2019-bayespostest
-date: 2019-10-01
-venue: 'Journal of Open Source Software'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+date: 2022-01-01
+venue: 'Economics Letters'
+paperurl: '/files/pdf/research/covid2.pdf'
+link: 'https://doi.org/10.1016/j.econlet.2021.110265'
+citation: 'Li, Jianhui, Xinfeng Ruan, and Jin E. Zhang, 2022,; The price of COVID-19-induced uncertainty in the options market,; <i>Economics Letters</i>,211, 110265, doi:10.1016/j.econlet.2021.110265'
 ---
