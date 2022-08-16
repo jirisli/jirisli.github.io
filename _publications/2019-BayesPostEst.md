@@ -6,5 +6,5 @@ date: 2022-01-01
 venue: 'Economics Letters'
 paperurl: '/files/pdf/research/covid2.pdf'
 link: 'https://doi.org/10.1016/j.econlet.2021.110265'
-citation: 'Li, Jianhui, Xinfeng Ruan, and Jin E. Zhang, 2022,; The price of COVID-19-induced uncertainty in the options market,; <i>Economics Letters</i>,211, 110265, doi:10.1016/j.econlet.2021.110265'
+citation: 'Li, Jianhui, Xinfeng Ruan, and Jin E. Zhang, 2022, The price of COVID-19-induced uncertainty in the options market, <i>Economics Letters</i> 211, 110265, doi:10.1016/j.econlet.2021.110265'
 ---
