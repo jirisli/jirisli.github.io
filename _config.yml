@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
+  Conference:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _conference
   - scope:
       path: ""
-      type: research
+      type: conference
     values:
       layout: single
       author_profile: true
