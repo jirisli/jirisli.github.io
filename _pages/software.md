@@ -1,4 +1,5 @@
-
+permalink: /software/
+title: "Software"
 
 
 <table>
