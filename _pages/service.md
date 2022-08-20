@@ -192,6 +192,17 @@ a {color: rgb(29,67,135);}
 
 <p style="text-align:center"> <b>Past Events</b> </p>
 
+<head>
+<style>
+body {color: black;}
+table, td, th {border: 1px solid rgb(29,67,135);}
+table {width: 100%;border-collapse: collapse;}
+a {color: rgb(29,67,135);}
+</style>
+</head>
+<table>
+<tbody>
+<table style="width:100%">
 <thead>
   <tr>
     <th style="width:17.5%">Time</th>
@@ -200,7 +211,6 @@ a {color: rgb(29,67,135);}
     <th style="width:57.5%">Topic</th>
   </tr>
 </thead>
-<tbody>
 <tr>
 <td colspan="4">
 <b><i><div align="center">12 January 2022 ~ 23 February 2022</div></i></b>
@@ -949,5 +959,6 @@ The Cross-Sectional Variation of Delta Hedged Returns
 The Implied Volatility Smirk in the Commodity Market
 </td>
 </tr>
-
+</tbody>
+</table>
 
