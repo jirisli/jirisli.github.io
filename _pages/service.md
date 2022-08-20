@@ -935,4 +935,5 @@ The Cross-Sectional Variation of Delta Hedged Returns
 The Implied Volatility Smirk in the Commodity Market
 </td>
 </tr>
+<tbody>
 </table>
