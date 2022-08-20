@@ -214,39 +214,6 @@ a {color: rgb(29,67,135);}
   <td><a href="https://sites.google.com/view/PakornA/" style="text-decoration: none">Pakorn (Beam) Aschakulporn<br /> <a href="https://sites.google.com/view/jianhuili/" style="text-decoration: none">Jianhui (Iris) Li<br /> <a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon<br /> <a href="https://sites.google.com/view/jefferyzhang/home" style="text-decoration: none">Junyu (Jeffery) Zhang</td>
   <td>Rehearsals for NZFC 2022</td>
 </tr>
-<tr>
-  <td>Wed 02 February 2022<br />2:00pm ~ 3:00pm</td>
-  <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
-  <td>Yi Shi</td>
-  <td>The implied volatility smirk in the Chinese currency market</td>
-</tr>
-<tr>
-  <td>Wed 26 January 2022<br />2:00pm ~ 3:00pm</td>
-  <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
-  <td>Weihan Li</td>
-  <td>The price differences between American and European options: Evidence from OEX and XEO options</td>
-</tr>
-<tr>
-  <td>Wed 19 January 2022<br />2:00pm ~ 3:00pm</td>
-  <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
-  <td>Jasper Struwig</td>
-  <td>The implied volatility smirk of U.S. pharmaceutical options during COVID-19</td>
-</tr>
-<tr>
-  <td>Wed 12 January 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS3.37<br /><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
-  <td><a href="https://sites.google.com/view/jefferyzhang/home" style="text-decoration: none">Junyu (Jeffery) Zhang</a></td>
-  <td>Risk-neutral moments and return predictability: International evidence</td>
-</tr>
-<tr>
-  <td colspan="4"><b><i><div align="center">20 October 2021 ~ 14 December 2021</div></i></b></td>
-</tr>
-<tr>
-  <td>Tue 14 December 2021<br />2:00pm ~ 3:00pm</td>
-  <td>OBS3.37<br /><a href="https://otago.zoom.us/j/96147396998" style="text-decoration: none">Zoom</a></td>
-  <td>Weihan Li</td>
-  <td>The price differences between American and European options: Evidence from OEX and XEO options</td>
-</tr>
 </table>
 
 
