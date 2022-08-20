@@ -19,7 +19,6 @@ a {color: rgb(29,67,135);}
 </style>
 </head>
 
-<table>
 <table style="width:100%">
 <thead>
   <tr>
