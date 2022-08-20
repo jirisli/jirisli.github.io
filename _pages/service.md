@@ -3,9 +3,12 @@ permalink: /service/
 title: "Service"
 ---
 
-# Derivatives and Quantitative Finance Group Meeting Schedule
+Derivatives and Quantitative Finance Group Meeting Schedule
 Zoom meeting link: 
 <a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a>
+
+<b><i><div align="center">Current Events</div></i></b>
+
 
 <!-- -->
 
