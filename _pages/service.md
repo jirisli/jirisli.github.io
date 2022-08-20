@@ -83,7 +83,6 @@ a {color: rgb(29,67,135);}
   <td><a href="https://isabellayoon.github.io/" style="text-decoration: none">Jungah (Isabella) Yoon</a></td>
   <td>Mathematical Finance:<br />No-arbitrage principle, forward price, put-call parity and the Black-Scholes model</td>
 </tr>
-
 <tr>
   <td>Tue 24 May 2022<br />2:00pm ~ 3:00pm</td>
   <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
@@ -192,16 +191,6 @@ a {color: rgb(29,67,135);}
 
 <p style="text-align:center"> <b>Past Events</b> </p>
 
-<table>
-<table style="width:100%">
-<thead>
-  <tr>
-    <th style="width:17.5%">Time</th>
-    <th style="width:10%">Location</th>
-    <th style="width:15%">Presenter(s)</th>
-    <th style="width:57.5%">Topic</th>
-  </tr>
-</thead>
 <table>
 <table style="width:100%">
 <thead>
