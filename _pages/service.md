@@ -74,7 +74,7 @@ a {color: rgb(29,67,135);}
 <tr>
   <td>Tue 7 June 2021<br />1:00pm ~ 4:00pm</td>
   <td><a href="https://otago.zoom.us/j/96169284919" style="text-decoration: none">Zoom</a></td>
-  <td></td>
+  <td>-</td>
   <td>PhD Workshop <br /> https://sites.google.com/view/uoworkshop/current-workshop</td>
 </tr>
 <tr>
