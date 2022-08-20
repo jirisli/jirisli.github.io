@@ -191,16 +191,6 @@ a {color: rgb(29,67,135);}
 
 <p style="text-align:center"> <b>Past Events</b> </p>
 
-<head>
-<style>
-body {color: black;}
-table, td, th {border: 1px solid rgb(29,67,135);}
-table {width: 100%;border-collapse: collapse;}
-a {color: rgb(29,67,135);}
-</style>
-</head>
-<body>
-<table style="width:100%">
 <thead>
   <tr>
     <th style="width:17.5%">Time</th>
