@@ -3,9 +3,8 @@ permalink: /DQFG/meetings
 title: "Derivatives and Quantitative Finance Group Meeting Schedule"
 ---
 
-# BayesPostEst
-
-Zoom meeting link: <a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a>
+# Zoom meeting link: 
+<a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a>
 
 <!-- -->
 
