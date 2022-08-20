@@ -198,7 +198,6 @@ a {color: rgb(29,67,135);}
 </style>
 </head>
 <table>
-<tbody>
 <table style="width:100%">
 <thead>
   <tr>
@@ -956,6 +955,5 @@ The Cross-Sectional Variation of Delta Hedged Returns
 The Implied Volatility Smirk in the Commodity Market
 </td>
 </tr>
-</tbody>
 </table>
 
