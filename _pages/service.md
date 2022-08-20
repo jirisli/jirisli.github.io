@@ -13,7 +13,7 @@ Zoom meeting link:
 <table>
 <tbody>
 <tr>
-<td><th style="width: 17.5%">Time</th></td>
+<th style="width: 17.5%">Time</th>
 <th style="width: 10%">Location</th>
 <th style="width: 15%">Presenter(s)</th>
 <th style="width: 57.5%">Topic</th>
