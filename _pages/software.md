@@ -1,5 +1,5 @@
 ---
-permalink: /Service/
+permalink: /service/
 title: "Service"
 ---
 
