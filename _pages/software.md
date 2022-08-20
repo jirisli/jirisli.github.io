@@ -1,9 +1,10 @@
 ---
 permalink: /DQFG/meetings
-title: "Derivatives and Quantitative Finance Group Meeting Schedule"
+title: "Service"
 ---
 
-# Zoom meeting link: 
+# Derivatives and Quantitative Finance Group Meeting Schedule
+Zoom meeting link: 
 <a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a>
 
 <!-- -->
