@@ -18,7 +18,6 @@ a {color: rgb(29,67,135);}
 </style>
 </head>
 <table>
-<tbody>
 <table style="width:100%">
 <thead>
   <tr>
@@ -183,7 +182,6 @@ a {color: rgb(29,67,135);}
   <td>Wen Xu</td>
   <td>Derivatives:<br />Introduction</td>
 </tr>
-</tbody>
 </table>
 
 
