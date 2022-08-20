@@ -1,5 +1,5 @@
 ---
-permalink: /DQFG/meetings
+permalink: /Service/
 title: "Service"
 ---
 
