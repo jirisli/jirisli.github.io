@@ -182,6 +182,12 @@ a {color: rgb(29,67,135);}
   <td>Wen Xu</td>
   <td>Derivatives:<br />Introduction</td>
 </tr>
+<tr>
+  <td>Wed 09 February 2022<br />2:00pm ~ 3:30pm</td>
+  <td>OBS5.07<br /><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/view/PakornA/" style="text-decoration: none">Pakorn (Beam) Aschakulporn<br /> <a href="https://sites.google.com/view/jianhuili/" style="text-decoration: none">Jianhui (Iris) Li<br /> <a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon<br /> <a href="https://sites.google.com/view/jefferyzhang/home" style="text-decoration: none">Junyu (Jeffery) Zhang</td>
+  <td>Rehearsals for NZFC 2022</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
