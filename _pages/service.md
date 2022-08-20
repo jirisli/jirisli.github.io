@@ -3,7 +3,7 @@ permalink: /service/
 title: "Service"
 ---
 
-Derivatives and Quantitative Finance Group Meeting Schedule
+Chair of the Derivatives and Quantitative Finance Group (DQFG) meetings
 Zoom meeting link: 
 <a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a>
 
