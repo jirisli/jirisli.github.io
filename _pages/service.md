@@ -182,6 +182,7 @@ a {color: rgb(29,67,135);}
   <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
   <td>Wen Xu</td>
   <td>Derivatives:<br />Introduction</td>
+</tr>
 </tbody>
 </table>
 
@@ -956,5 +957,6 @@ The Cross-Sectional Variation of Delta Hedged Returns
 <td>
 The Implied Volatility Smirk in the Commodity Market
 </td>
+</tr>
 
 
