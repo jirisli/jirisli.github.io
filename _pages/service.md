@@ -202,6 +202,11 @@ a {color: rgb(29,67,135);}
 <tr>
   <td colspan="4"><b><i><div align="center">12 January 2022 ~ 23 February 2022</div></i></b></td>
 </tr>
+<tr>
+<td colspan="4">
+<b><i><div align="center">12 January 2022 ~ 23 February 2022</div></i></b>
+</td>
+</tr>
 </table>
 
 
