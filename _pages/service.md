@@ -960,7 +960,3 @@ The Implied Volatility Smirk in the Commodity Market
 </tr>
 </tbody>
 </table>
-</div>
-</body>
-<br />
-
