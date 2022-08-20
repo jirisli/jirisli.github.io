@@ -239,9 +239,7 @@ a {color: rgb(29,67,135);}
   <td>Risk-neutral moments and return predictability: International evidence</td>
 </tr>
 <tr>
-<td colspan="4">
-<b><i><div align="center">20 October 2021 ~ 14 December 2021</div></i></b>
-</td>
+  <td colspan="4"><b><i><div align="center">20 October 2021 ~ 14 December 2021</div></i></b></td>
 </tr>
 <tr>
   <td>Tue 14 December 2021<br />2:00pm ~ 3:00pm</td>
