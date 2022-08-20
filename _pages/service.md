@@ -28,7 +28,6 @@ a {color: rgb(29,67,135);}
     <th style="width:57.5%">Topic</th>
   </tr>
 </thead>
-<tbody>
 <tr>
   <td>Fri 26 August 2022<br />2:00pm ~ 3:00pm</td>
   <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
