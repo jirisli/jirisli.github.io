@@ -948,7 +948,6 @@ Pricing VXX Options
 The Cross-Sectional Variation of Delta Hedged Returns
 </td>
 </tr>
-<tr>
 <td>Wed 23 Oct 2019<br />1pm ~ 2pm</td>
 <td>OBS3.36</td>
 <td>
