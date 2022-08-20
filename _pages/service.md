@@ -9,6 +9,7 @@ Chair of the Derivatives and Quantitative Finance Group (DQFG) meetings
 
 <i>Zoom meeting link: 
 <a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a></i>
+
 <head>
 <style>
 body {color: black;}
@@ -17,6 +18,7 @@ table {width: 100%;border-collapse: collapse;}
 a {color: rgb(29,67,135);}
 </style>
 </head>
+
 <table>
 <table style="width:100%">
 <thead>
@@ -184,19 +186,12 @@ a {color: rgb(29,67,135);}
 </tr>
 </table>
 
+<p>&nbsp;</p>
 
-  <p>&nbsp;</p>
+	
 
 <p style="text-align:center"> <b>Past Events</b> </p>
 
-<head>
-<style>
-body {color: black;}
-table, td, th {border: 1px solid rgb(29,67,135);}
-table {width: 100%;border-collapse: collapse;}
-a {color: rgb(29,67,135);}
-</style>
-</head>
 <table>
 <table style="width:100%">
 <thead>
@@ -459,22 +454,18 @@ a {color: rgb(29,67,135);}
 </td>
 </tr>
 <tr>
-    <td>Wed 16 December 2020<br />3pm ~ 4pm</td>
-    <td>OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
-    <td><a href="https://sites.google.com/view/xiaolanhomepage/" style="text-decoration: none">Xiaolan Jia</a></td>
+  <td>Wed 16 December 2020<br />3pm ~ 4pm</td>
+  <td>OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/view/xiaolanhomepage/" style="text-decoration: none">Xiaolan Jia</a></td>
 <td>
 Forecasting the equity premium with the information inferred from Carr and Wu's (2020) framework
 </td>
 </tr>
 <tr>
-    <td>Wed 9 December 2020<br />3pm ~ 4pm</td>
-    <td>OBS3.37</td>
-	<td>
-	<a href="https://sites.google.com/view/weilinhomepage1991/" style="text-decoration: none">Wei Lin</a>
-	</td>
-<td>
-24-month PhD Review: Pricing VXX Options by Modelling VIX Directly
-</td>
+  <td>Wed 9 December 2020<br />3pm ~ 4pm</td>
+  <td>OBS3.37</td>
+  <td><a href="https://sites.google.com/view/weilinhomepage1991/" style="text-decoration: none">Wei Lin</a></td>
+  <td>24-month PhD Review: Pricing VXX Options by Modelling VIX Directly</td>
 </tr>
 <tr>
   <td rowspan="3">Wed 2 December 2020<br />3pm ~ 4pm</td>
@@ -491,129 +482,88 @@ Forecasting the equity premium with the information inferred from Carr and Wu's 
   <td>Research Project</td>
 </tr>
 <tr>
-    <td>Wed 25 November 2020<br />3pm ~ 4pm</td>
-    <td>OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
-    <td><a href="https://sites.google.com/view/PakornA/" style="text-decoration: none">Pakorn (Beam) Aschakulporn</a></td>
-<td>
-Bakshi, Kapadia, and Madan Risk-Neutral Moment Estimators under Affine Jump Diffusion
-</td>
+  <td>Wed 25 November 2020<br />3pm ~ 4pm</td>
+  <td>OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/view/PakornA/" style="text-decoration: none">Pakorn (Beam) Aschakulporn</a></td>
+  <td>Bakshi, Kapadia, and Madan Risk-Neutral Moment Estimators under Affine Jump Diffusion</td>
 </tr>
 <tr>
-    <td>Wed 18 November 2020<br />3pm ~ 4pm</td>
-    <td>OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
-    <td>
-    <a href="https://sites.google.com/site/weiguooneone/" style="text-decoration: none">Wei Guo</a>
-	</td>
-<td>
-The Puzzle of Index ETF Option Mispricing
-</td>
+  <td>Wed 18 November 2020<br />3pm ~ 4pm</td>
+  <td>OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/site/weiguooneone/" style="text-decoration: none">Wei Guo</a></td>
+  <td>The Puzzle of Index ETF Option Mispricing</td>
 </tr>
 <tr>
-    <td>Fri 13 November 2020<br />2pm ~ 3pm</td>
-    <td>OBS3.37</td>
-    <td>
-	<a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon</a>
-	</td>
-<td>
-6-month PhD Review: The Implied Volatility Slope in VIX options
-</td>
-</tr>
-  <tr>
-    <td rowspan="3">Wed 11 November 2020<br />3pm ~ 4pm</td>
-    <td rowspan="3">OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
-    <td>Samuel Kirk-Reeve<br />Tom Lindsay<br />Kate Scott<br />James Stanners<br />Tom Weatherall</td>
-    <td>FINC580: Research Project</td>
-  </tr>
-  <tr>
-    <td>Stanley Pont<br />Jasper Struwig</td>
-    <td>Summer Research Project 2020/2021</td>
-  </tr>
-  <tr>
-    <td>Basri Abdul Razak</td>
-    <td>Research Project</td>
-  </tr>
-<tr>
-    <td>Wed 4 November 2020<br />3pm ~ 4pm</td>
-    <td><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
-    <td>
-	<a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon</a>
-	</td>
-<td>
-The Steepness of Implied Volatility in the VIX options market
-</td>
+  <td>Fri 13 November 2020<br />2pm ~ 3pm</td>
+  <td>OBS3.37</td>
+  <td><a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon</a></td>
+  <td>6-month PhD Review: The Implied Volatility Slope in VIX options</td>
 </tr>
 <tr>
-    <td>Wed 28 October 2020<br />3pm ~ 4pm</td>
-    <td><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
-    <td>
-	<a href="https://sites.google.com/view/weilinhomepage1991/" style="text-decoration: none">Wei Lin</a>
-	</td>
-<td>
-Pricing VXX option with stochastic volatility
-</td>
+  <td rowspan="3">Wed 11 November 2020<br />3pm ~ 4pm</td>
+  <td rowspan="3">OBS3.37<br /><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
+  <td>Samuel Kirk-Reeve<br />Tom Lindsay<br />Kate Scott<br />James Stanners<br />Tom Weatherall</td>
+  <td>FINC580: Research Project</td>
 </tr>
 <tr>
-    <td>Wed 21 October 2020<br />3pm ~ 4pm</td>
-    <td><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
-    <td>
-	<a href="" style="text-decoration: none">Jianhui (Iris) Li</a>
-	</td>
-<td>
-The COVID-19 risk in the Chinese option market
-</td>
+  <td>Stanley Pont<br />Jasper Struwig</td>
+  <td>Summer Research Project 2020/2021</td>
 </tr>
 <tr>
-    <td>Fri 16 October 2020<br />2pm ~ 3pm</td>
-    <td>OBS3.37</td>
-    <td>
-    <a href="https://sites.google.com/view/xiaolanhomepage/" style="text-decoration: none">Xiaolan Jia</a>
-	</td>
-<td>
-Three Essays on the Implied Volatility Smile
-</td>
+  <td>Basri Abdul Razak</td>
+  <td>Research Project</td>
 </tr>
 <tr>
-<td colspan="4">
-<b><i><div align="center">24 February 2020 ~ 30 June 2020</div></i></b>
-</td>
+  <td>Wed 4 November 2020<br />3pm ~ 4pm</td>
+  <td><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon</a></td>
+  <td>The Steepness of Implied Volatility in the VIX options market</td>
 </tr>
 <tr>
-<td>Mon 22 Jun 2020<br />3pm ~ 4pm</td>
-<td><a href="https://otago.zoom.us/j/536256144" style="text-decoration: none">Zoom</a></td>
-<td>
-<a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon</a>
-</td>
-<td>
-Literature on VIX Derivatives
-</td>
+  <td>Wed 28 October 2020<br />3pm ~ 4pm</td>
+  <td><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/view/weilinhomepage1991/" style="text-decoration: none">Wei Lin</a></td>
+  <td>Pricing VXX option with stochastic volatility</td>
 </tr>
 <tr>
-<td>Fri 19 Jun 2020<br />12:30pm ~ 1:30pm</td>
-<td><a href="https://otago.zoom.us/j/97286156928" style="text-decoration: none">Zoom*</a></td>
-<td>
-<a href="https://sites.google.com/site/weiguooneone/" style="text-decoration: none">Wei Guo</a>
-</td>
-<td>
-2-Year Presentation - The implied volatility smirk and variance risk premia
-<br />
-*<a href="https://otago.zoom.us/j/97286156928">https://otago.zoom.us/j/97286156928</a>
-</td>
+  <td>Wed 21 October 2020<br />3pm ~ 4pm</td>
+  <td><a href="https://otago.zoom.us/j/98078758731" style="text-decoration: none">Zoom</a></td>
+  <td><a href="" style="text-decoration: none">Jianhui (Iris) Li</a></td>
+  <td>The COVID-19 risk in the Chinese option market</td>
 </tr>
 <tr>
-<td>Mon 15 Jun 2020<br />3pm ~ 4pm</td>
-<td><a href="https://otago.zoom.us/j/536256144" style="text-decoration: none">Zoom</a></td>
-<td>Samuel Kirk-Reeve</td>
-<td>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466417" style="text-decoration: none">Pedersen, Lasse Heje, Shaun Fitzgibbons, and Lukasz Pomorski, 2020, Responsible Investing: The ESG-Efficient Frontier, <i>Available at SSRN: https://ssrn.com/abstract=3466417</i></a>
-</td>
+  <td>Fri 16 October 2020<br />2pm ~ 3pm</td>
+  <td>OBS3.37</td>
+  <td>
+  <a href="https://sites.google.com/view/xiaolanhomepage/" style="text-decoration: none">Xiaolan Jia</a></td>
+  <td>Three Essays on the Implied Volatility Smile</td>
 </tr>
 <tr>
-<td>Mon 8 Jun 2020<br />3pm ~ 4pm</td>
-<td><a href="https://otago.zoom.us/j/536256144" style="text-decoration: none">Zoom</a></td>
-<td><a href="https://sites.google.com/view/PakornA/" style="text-decoration: none">Pakorn (Beam) Aschakulporn</a></td>
-<td>
-Bakshi, Kapadia, and Madan (2003) Risk-Neutral Skewness under Heston’s Model
-</td>
+  <td colspan="4"><b><i><div align="center">24 February 2020 ~ 30 June 2020</div></i></b></td>
+</tr>
+<tr>
+  <td>Mon 22 Jun 2020<br />3pm ~ 4pm</td>
+  <td><a href="https://otago.zoom.us/j/536256144" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/view/jungahyoon/" style="text-decoration: none">Jungah (Isabella) Yoon</a></td>
+  <td>Literature on VIX Derivatives</td>
+</tr>
+<tr>
+  <td>Fri 19 Jun 2020<br />12:30pm ~ 1:30pm</td>
+  <td><a href="https://otago.zoom.us/j/97286156928" style="text-decoration: none">Zoom*</a></td>
+  <td><a href="https://sites.google.com/site/weiguooneone/" style="text-decoration: none">Wei Guo</a></td>
+  <td>2-Year Presentation - The implied volatility smirk and variance risk premia<br />*<a href="https://otago.zoom.us/j/97286156928">https://otago.zoom.us/j/97286156928</a></td>
+</tr>
+<tr>
+  <td>Mon 15 Jun 2020<br />3pm ~ 4pm</td>
+  <td><a href="https://otago.zoom.us/j/536256144" style="text-decoration: none">Zoom</a></td>
+  <td>Samuel Kirk-Reeve</td>
+  <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466417" style="text-decoration: none">Pedersen, Lasse Heje, Shaun Fitzgibbons, and Lukasz Pomorski, 2020, Responsible Investing: The ESG-Efficient Frontier, <i>Available at SSRN: https://ssrn.com/abstract=3466417</i></a></td>
+</tr>
+<tr>
+  <td>Mon 8 Jun 2020<br />3pm ~ 4pm</td>
+  <td><a href="https://otago.zoom.us/j/536256144" style="text-decoration: none">Zoom</a></td>
+  <td><a href="https://sites.google.com/view/PakornA/" style="text-decoration: none">Pakorn (Beam) Aschakulporn</a></td>
+  <td>Bakshi, Kapadia, and Madan (2003) Risk-Neutral Skewness under Heston’s Model</td>
 </tr>
 <tr>
 <td>Tue 2 Jun 2020<br />2pm ~ 4pm</td>
@@ -954,6 +904,5 @@ The Cross-Sectional Variation of Delta Hedged Returns
 <td>
 The Implied Volatility Smirk in the Commodity Market
 </td>
-</tr>
-</table>
+
 
