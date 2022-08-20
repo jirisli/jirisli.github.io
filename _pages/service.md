@@ -174,7 +174,7 @@ Zoom meeting link:
 </tr>
 </tbody>
 </table>
-
+<p>&nbsp;</p>
 
 <p style="text-align:center"> <b><i>Past Events</i></b> </p>
 <!-- -->
