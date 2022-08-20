@@ -247,7 +247,6 @@ a {color: rgb(29,67,135);}
   <td>Weihan Li</td>
   <td>The price differences between American and European options: Evidence from OEX and XEO options</td>
 </tr>
-
 </table>
 
 
