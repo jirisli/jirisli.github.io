@@ -5,10 +5,10 @@ title: "Service"
 
 Chair of the Derivatives and Quantitative Finance Group (DQFG) meetings
 
-<p style="text-align:center"> <b><i>Current Events</i></b> </p>
+<p style="text-align:center"> Current Events </p>
 
-Zoom meeting link: 
-<a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a>
+<b><i>Zoom meeting link: 
+<a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a></i></b>
 <head>
 <style>
 body {color: black;}
