@@ -8,7 +8,7 @@ Zoom meeting link:
 <a style="text-decoration: none" href="https://otago.zoom.us/j/96781835240">https://otago.zoom.us/j/96781835240</a>
 
 
-<b><i><p style="text-align:center"> Current Events </p></i></b>
+<p style="text-align:center"> <b><i>Current Events</i></b> </p>
 
 <!-- -->
 
