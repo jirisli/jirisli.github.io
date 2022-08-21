@@ -14,4 +14,4 @@ I earned my master in Business in Finance from
 [University *of* Otago](https://www.otago.ac.nz/).
 My academic work has been [published](research) in
 *Economics Letters*, *International Review of Finance*, and *Journal of Futures Markets*. My research studies the joint cross section between the stock and
-options markets. I'm the chair of the Derivatives and Quantitative Finance Group (DQFG) meetings and have assisted in [teaching](teaching) FINC102: Business Mathematics, BSNS114: Financial Decision Making, and FINC204: Personal Finance.
+options markets. I'm the [chair](service) of the Derivatives and Quantitative Finance Group (DQFG) meetings and have assisted in [teaching](teaching) FINC102: Business Mathematics, BSNS114: Financial Decision Making, and FINC204: Personal Finance.
