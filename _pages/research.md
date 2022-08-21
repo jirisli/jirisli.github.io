@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 ---
 
@@ -17,9 +17,3 @@ author_profile: true
 
 ## Conferences
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
