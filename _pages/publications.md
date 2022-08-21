@@ -15,3 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+# Conference
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
