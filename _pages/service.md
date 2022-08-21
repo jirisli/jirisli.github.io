@@ -22,7 +22,7 @@ a {color: rgb(29,67,135);}
 <table style="width:100%">
 <thead>
   <tr>
-    <th style="width:17.5%">Time</th>
+    <th style="width:17.5%"><div align="center">Time</div></th>
     <th style="width:10%">Location</th>
     <th style="width:15%">Presenter(s)</th>
     <th style="width:57.5%">Topic</th>
