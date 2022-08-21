@@ -1,5 +1,3 @@
-## Publications
-
 ---
 layout: archive
 title: "Research"
