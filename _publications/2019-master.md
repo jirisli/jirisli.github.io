@@ -1,4 +1,5 @@
 ---
+title: "How do US options traders “smirk” on China? Evidence from FXI options"
 collection: publications
 permalink: /publication/2019-master
 date: 2019-01-01
