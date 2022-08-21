@@ -24,7 +24,7 @@ a {color: rgb(29,67,135);}
   <tr>
     <th style="width:17.5%"><div align="center">Time</div></th>
     <th style="width:10%"><div align="center">Location</div></th>
-    <th style="width:15%"><div align="center">Presenter</div>(s)</th>
+    <th style="width:15%"><div align="center">Presenter(s)</div></th>
     <th style="width:57.5%"><div align="center">Topic</div></th>
   </tr>
 </thead>
@@ -195,7 +195,7 @@ a {color: rgb(29,67,135);}
   <tr>
     <th style="width:17.5%"><div align="center">Time</div></th>
     <th style="width:10%"><div align="center">Location</div></th>
-    <th style="width:15%"><div align="center">Presenter</div>(s)</th>
+    <th style="width:15%"><div align="center">Presenter(s)</div></th>
     <th style="width:57.5%"><div align="center">Topic</div></th>
   </tr>
 </thead>
