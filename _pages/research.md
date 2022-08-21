@@ -1,19 +1,12 @@
 ---
-layout: archive
-title: "Research"
 permalink: /research/
-author_profile: true
+title: "Research"
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Publications
+Li, Jianhui, Sebastian A. Gehricke, and Jin E. Zhang, 2019, How do US options traders “smirk” on China? Evidence from FXI options, *Journal of Futures Markets* 39(11), 1450-1470, [doi:10.1002/fut.22005](https://doi.org/10.1002/fut.22005)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ## Conferences
 
