@@ -43,13 +43,13 @@ a {color: rgb(29,67,135);}
 <tr>
   <td>Fri 8 July 2022<br />2:00pm ~ 3:00pm</td>
   <td><a href="https://otago.zoom.us/j/6867818251" style="text-decoration: none">Zoom</a></td>
-  <td><a href="https://sites.google.com/view/jianhuili/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
+  <td><a href="https://jirisli.github.io/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
   <td>24-Month PhD Review: <br />The price of COVID-19-induced uncertainty in the options market</td>
 </tr>
 <tr>
   <td>Tue 5 July 2022<br />2:00pm ~ 3:00pm</td>
   <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
-  <td><a href="https://sites.google.com/view/jianhuili/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
+  <td><a href="https://jirisli.github.io/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
   <td>24-Month PhD Review Rehearsal: <br />The price of COVID-19-induced uncertainty in the options market</td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ a {color: rgb(29,67,135);}
 <tr>
   <td>Tue 17 May 2022<br />2:00pm ~ 3:00pm</td>
   <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
-  <td><a href="https://sites.google.com/view/jianhuili/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
+  <td><a href="https://jirisli.github.io/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
   <td>Mathematical Finance:<br />Conditional expectation of a Function of a Brownian motion and martingale</td>
 </tr>
 <tr>
@@ -135,13 +135,13 @@ a {color: rgb(29,67,135);}
   <td>Binomial Tree Model</td>
   </tr>
 <tr>
-  <td><a href="https://sites.google.com/view/jianhuili/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
+  <td><a href="https://jirisli.github.io/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
   <td>A review of the options markets during COVID-19</td>
 </tr>
 <tr>
   <td rowspan="2">Tue 29 March 2022<br />2pm ~ 3:30pm</td>
   <td rowspan="2"><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
-  <td><a href="https://sites.google.com/view/jianhuili/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
+  <td><a href="https://jirisli.github.io/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
   <td>Model-Free Relationships between Option Prices</td>
   </tr>
 <tr>
