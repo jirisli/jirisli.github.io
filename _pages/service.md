@@ -29,6 +29,33 @@ a {color: rgb(29,67,135);}
   </tr>
 </thead>
 <tr>
+  <td>Tue 18 October 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>Weihan Li</td>
+  <td>TBD</td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+
+	
+<h2 style="text-align:center">Past Events</h2>
+
+<table style="width:100%">
+<thead>
+  <tr>
+    <th style="width:17.5%"><div align="center">Time</div></th>
+    <th style="width:10%"><div align="center">Location</div></th>
+    <th style="width:15%"><div align="center">Presenter(s)</div></th>
+    <th style="width:57.5%"><div align="center">Topic</div></th>
+  </tr>
+</thead>
+<tr>
+<td colspan="4">
+<b><i><div align="center">01 March 2022 ~ 26 August 2022</div></i></b>
+</td>
+</tr>
+<tr>
   <td>Fri 26 August 2022<br />2:00pm ~ 3:00pm</td>
   <td><a href="https://otago.zoom.us/j/96781835240" style="text-decoration: none">Zoom</a></td>
   <td><a href="https://sites.google.com/view/weilinhomepage1991/" style="text-decoration: none">Wei Lin</a></td>
@@ -182,22 +209,6 @@ a {color: rgb(29,67,135);}
   <td>Wen Xu</td>
   <td>Derivatives:<br />Introduction</td>
 </tr>
-</table>
-
-<p>&nbsp;</p>
-
-	
-<h2 style="text-align:center">Past Events</h2>
-
-<table style="width:100%">
-<thead>
-  <tr>
-    <th style="width:17.5%"><div align="center">Time</div></th>
-    <th style="width:10%"><div align="center">Location</div></th>
-    <th style="width:15%"><div align="center">Presenter(s)</div></th>
-    <th style="width:57.5%"><div align="center">Topic</div></th>
-  </tr>
-</thead>
 <tr>
   <td colspan="4"><b><i><div align="center">12 January 2022 ~ 23 February 2022</div></i></b></td>
 </tr>
