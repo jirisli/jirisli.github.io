@@ -29,7 +29,7 @@ a {color: rgb(29,67,135);}
   </tr>
 </thead>
 <tr>
-  <td>Tue 18 Oct 2022<br />2:00pm ~ 3:00pm</td>
+  <td>Tue 18 Oct. 2022<br />2:00pm ~ 3:00pm</td>
   <td>OBS5.07</td>
   <td>Weihan Li</td>
   <td>TBD</td>
