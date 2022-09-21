@@ -34,6 +34,54 @@ a {color: rgb(29,67,135);}
   <td>Weihan Li</td>
   <td>TBD</td>
 </tr>
+<tr>
+  <td>Tue 25 Oct. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Tue 01 Nov. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Tue 08 Nov. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Tue 15 Nov. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Tue 22 Nov. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Tue 29 Nov. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Tue 06 Dec. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Tue 13 Dec. 2022<br />2:00pm ~ 3:00pm</td>
+  <td>OBS5.07</td>
+  <td>TBD</td>
+  <td>TBD</td>
+</tr>
 </table>
 
 <p>&nbsp;</p>
