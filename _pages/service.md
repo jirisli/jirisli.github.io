@@ -32,7 +32,7 @@ a {color: rgb(29,67,135);}
   <td>Tue 18 Oct. 2022<br />2:00pm ~ 3:00pm</td>
   <td>OBS5.07</td>
   <td>Weihan Li</td>
-  <td>TBD</td>
+  <td>Are American options always more expensive than European options? Evidence from OEX and XEO options</td>
 </tr>
 <tr>
   <td>Tue 25 Oct. 2022<br />2:00pm ~ 3:00pm</td>
