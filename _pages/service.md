@@ -37,13 +37,13 @@ a {color: rgb(29,67,135);}
 <tr>
   <td>Tue 25 Oct. 2022<br />2:00pm ~ 3:00pm</td>
   <td>OBS5.07</td>
-  <td>TBD</td>
+  <td><a href="https://isabellayoon.github.io/" style="text-decoration: none">Jungah (Isabella) Yoon</a></td>
   <td>TBD</td>
 </tr>
 <tr>
   <td>Tue 01 Nov. 2022<br />2:00pm ~ 3:00pm</td>
   <td>OBS5.07</td>
-  <td>TBD</td>
+  <td><a href="https://jirisli.github.io/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
   <td>TBD</td>
 </tr>
 <tr>
@@ -72,12 +72,6 @@ a {color: rgb(29,67,135);}
 </tr>
 <tr>
   <td>Tue 06 Dec. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td>TBD</td>
-  <td>TBD</td>
-</tr>
-<tr>
-  <td>Tue 13 Dec. 2022<br />2:00pm ~ 3:00pm</td>
   <td>OBS5.07</td>
   <td>TBD</td>
   <td>TBD</td>
