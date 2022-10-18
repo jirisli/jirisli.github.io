@@ -56,7 +56,7 @@ Are American options always more expensive than European options? Evidence from 
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
 <td><a style="text-decoration: none" href="https://jirisli.github.io/">Jianhui (Iris) Li</a></td>
-<td>COVID-19 Tail Risk</td>
+<td>COVID-19 tail risk</td>
 </tr>
 <tr>
 <td>Tue 08 Nov. 2022
