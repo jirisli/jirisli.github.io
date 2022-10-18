@@ -29,52 +29,67 @@ a {color: rgb(29,67,135);}
   </tr>
 </thead>
 <tr>
-  <td>Tue 18 Oct. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td>Weihan Li</td>
-  <td>Are American options always more expensive than European options? Evidence from OEX and XEO options</td>
+<td>Tue 18 Oct. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a href="https://sites.google.com/view/weihanli">Weihan Li</a></td>
+<td>Are American options always more expensive than European options? Evidence from OEX and XEO options</td>
 </tr>
 <tr>
-  <td>Tue 25 Oct. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td><a href="https://isabellayoon.github.io/" style="text-decoration: none">Jungah (Isabella) Yoon</a></td>
-  <td>TBD</td>
+<td>Tue 25 Oct. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a style="text-decoration: none" href="https://isabellayoon.github.io/">Jungah (Isabella) Yoon</a></td>
+<td>Relationship between SPX, VIX and VXX options</td>
 </tr>
 <tr>
-  <td>Tue 01 Nov. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td><a href="https://jirisli.github.io/" style="text-decoration: none">Jianhui (Iris) Li</a></td>
-  <td>TBD</td>
+<td>Tue 01 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a style="text-decoration: none" href="https://jirisli.github.io/">Jianhui (Iris) Li</a></td>
+<td>COVID-19 Tail Risk</td>
 </tr>
 <tr>
-  <td>Tue 08 Nov. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td>TBD</td>
-  <td>TBD</td>
+<td>Tue 08 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a href="https://sites.google.com/view/jefferyzhang/">Junyu (Jeffery) Zhang</a></td>
+<td>The role of risk-neutral moments in forecasting future realised volatility: An international perspective</td>
 </tr>
 <tr>
-  <td>Tue 15 Nov. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td>TBD</td>
-  <td>TBD</td>
+<td>Fri 11 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>Zoom</td>
+<td><a href="https://sites.google.com/view/jingdayan">Jingda Yan</a></td>
+<td>Overreaction to volatility shock and option returns</td>
 </tr>
 <tr>
-  <td>Tue 22 Nov. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td>TBD</td>
-  <td>TBD</td>
+<td>Tue 15 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td>Yi Shi</td>
+<td>Zhang, J. E., &amp; Xiang, Y. (2008). <a href="https://doi.org/10.1080/14697680601173444">The implied volatility smirk</a>. Quantitative Finance, 8(3), 263-284.</td>
 </tr>
 <tr>
-  <td>Tue 29 Nov. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td>TBD</td>
-  <td>TBD</td>
+<td>Tue 22 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td>Tianjiao Li</td>
+<td>Cao, C., Simin, T., &amp; Xiao, H. (2020). <a href="https://doi.org/10.1016/j.finmar.2019.100531">Predicting the equity premium with the implied volatility spread</a>. <i>Journal of Financial Markets</i>, <i>51</i>, 100531.</td>
 </tr>
 <tr>
-  <td>Tue 06 Dec. 2022<br />2:00pm ~ 3:00pm</td>
-  <td>OBS5.07</td>
-  <td>TBD</td>
-  <td>TBD</td>
+<td>Tue 29 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a style="text-decoration: none" href="https://pbeama.github.io/">Pakorn (Beam) Aschakulporn</a></td>
+<td>The Implied Volatility Smirk of Pharmaceutical Options during the COVID-19 Pandemic</td>
+</tr>
+<tr>
+<td>Tue 06 Dec. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td>TBD</td>
+<td>TBD</td>
 </tr>
 </table>
 
