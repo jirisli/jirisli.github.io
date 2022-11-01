@@ -29,36 +29,6 @@ a {color: rgb(29,67,135);}
   </tr>
 </thead>
 <tr>
-<td>Tue 18 Oct. 2022
-2:00pm ~ 3:00pm</td>
-<td>OBS5.07</td>
-<td><a href="https://sites.google.com/view/weihanli">Weihan Li</a></td>
-<td>6-Month PhD Review Rehearsal:
-Are American options always more expensive than European options? Evidence from OEX and XEO options</td>
-</tr>
-<tr>
-<td>Tue 25 Oct. 2022
-2:00pm ~ 3:00pm</td>
-<td>OBS5.07</td>
-<td><a style="text-decoration: none" href="https://isabellayoon.github.io/">Jungah (Isabella) Yoon</a></td>
-<td>Relationship between SPX, VIX and VXX options</td>
-</tr>
-<tr>
-<td>Fri 28 Oct. 2022
-2:00pm ~ 3:00pm</td>
-<td>OBS5.07</td>
-<td><a href="https://sites.google.com/view/weihanli">Weihan Li</a></td>
-<td>6-Month PhD Review:
-Are American options always more expensive than European options? Evidence from OEX and XEO options</td>
-</tr>
-<tr>
-<td>Tue 01 Nov. 2022
-2:00pm ~ 3:00pm</td>
-<td>OBS5.07</td>
-<td><a style="text-decoration: none" href="https://jirisli.github.io/">Jianhui (Iris) Li</a></td>
-<td>COVID-19 tail risk</td>
-</tr>
-<tr>
 <td>Tue 08 Nov. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
@@ -99,6 +69,42 @@ Are American options always more expensive than European options? Evidence from 
 <td>OBS5.07</td>
 <td><a href="https://www.otago.ac.nz/accountancyfinance/staff/people/ruan.html">Xinfeng (Edwin) Ruan</a></td>
 <td>The Pricing of Jump Risk in Index Options</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tue 18 Oct. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a href="https://sites.google.com/view/weihanli">Weihan Li</a></td>
+<td>6-Month PhD Review Rehearsal:
+Are American options always more expensive than European options? Evidence from OEX and XEO options</td>
+</tr>
+<tr>
+<td>Tue 25 Oct. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a style="text-decoration: none" href="https://jirisli.github.io/">Jianhui (Iris) Li</a></td>
+<td>COVID-19 tail risk</td>
+</tr>
+<tr>
+<td>Fri 28 Oct. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a href="https://sites.google.com/view/weihanli">Weihan Li</a></td>
+<td>6-Month PhD Review:
+Are American options always more expensive than European options? Evidence from OEX and XEO options</td>
+</tr>
+<tr>
+<td>Tue 01 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a style="text-decoration: none" href="https://isabellayoon.github.io/">Jungah (Isabella) Yoon</a></td>
+<td>Relationship between SPX, VIX and VXX options</td>
 </tr>
 </table>
 
