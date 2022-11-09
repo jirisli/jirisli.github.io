@@ -60,8 +60,8 @@ a {color: rgb(29,67,135);}
 <td>Tue 06 Dec. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
-<td><a href="https://www.otago.ac.nz/accountancyfinance/staff/people/ruan.html">Xinfeng (Edwin) Ruan</a></td>
-<td>The Pricing of Jump Risk in Index Options</td>
+<td>TBD</td>
+<td>TBD</td>
 </tr>
 <tr>
 <td></td>
