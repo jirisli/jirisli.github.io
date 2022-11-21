@@ -29,20 +29,6 @@ a {color: rgb(29,67,135);}
   </tr>
 </thead>
 <tr>
-<td>Tue 15 Nov. 2022
-2:00pm ~ 3:00pm</td>
-<td>OBS5.07</td>
-<td>Tianjiao Li</td>
-<td>Zhang, J. E., &amp; Xiang, Y. (2008). <a href="https://doi.org/10.1080/14697680601173444">The implied volatility smirk</a>. Quantitative Finance, 8(3), 263-284.</td>
-</tr>
-<tr>
-<td>Fri 18 Nov. 2022
-2:00pm ~ 3:00pm</td>
-<td>Zoom</td>
-<td><a href="https://sites.google.com/view/jingdayan">Jingda Yan</a></td>
-<td>Overreaction to volatility shock and option returns</td>
-</tr>
-<tr>
 <td>Tue 22 Nov. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
@@ -53,7 +39,7 @@ a {color: rgb(29,67,135);}
 <td>Tue 29 Nov. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
-<td><a style="text-decoration: none" href="https://pbeama.github.io/">Pakorn (Beam) Aschakulporn</a></td>
+<td><a style="text-decoration: none;" href="https://pbeama.github.io/">Pakorn (Beam) Aschakulporn</a></td>
 <td>The Implied Volatility Smirk of Pharmaceutical Options during the COVID-19 Pandemic</td>
 </tr>
 <tr>
@@ -81,7 +67,7 @@ Are American options always more expensive than European options? Evidence from 
 <td>Tue 25 Oct. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
-<td><a style="text-decoration: none" href="https://jirisli.github.io/">Jianhui (Iris) Li</a></td>
+<td><a style="text-decoration: none;" href="https://jirisli.github.io/">Jianhui (Iris) Li</a></td>
 <td>COVID-19 tail risk</td>
 </tr>
 <tr>
@@ -96,7 +82,7 @@ Are American options always more expensive than European options? Evidence from 
 <td>Tue 01 Nov. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
-<td><a style="text-decoration: none" href="https://isabellayoon.github.io/">Jungah (Isabella) Yoon</a></td>
+<td><a style="text-decoration: none;" href="https://isabellayoon.github.io/">Jungah (Isabella) Yoon</a></td>
 <td>Relationship between SPX, VIX and VXX options</td>
 </tr>
 <tr>
@@ -105,6 +91,20 @@ Are American options always more expensive than European options? Evidence from 
 <td>OBS5.07</td>
 <td><a href="https://sites.google.com/view/jefferyzhang/">Junyu (Jeffery) Zhang</a></td>
 <td>The role of risk-neutral moments in forecasting future realised volatility: An international perspective</td>
+</tr>
+<tr>
+<td>Tue 15 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td>Tianjiao Li</td>
+<td>Zhang, J. E., &amp; Xiang, Y. (2008). <a href="https://doi.org/10.1080/14697680601173444">The implied volatility smirk</a>. Quantitative Finance, 8(3), 263-284.</td>
+</tr>
+<tr>
+<td>Fri 18 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>Zoom</td>
+<td><a href="https://sites.google.com/view/jingdayan">Jingda Yan</a></td>
+<td>Overreaction to volatility shock and option returns</td>
 </tr>
 </table>
 
