@@ -29,13 +29,6 @@ a {color: rgb(29,67,135);}
   </tr>
 </thead>
 <tr>
-<td>Tue 22 Nov. 2022
-2:00pm ~ 3:00pm</td>
-<td>OBS5.07</td>
-<td>Shi Yi</td>
-<td>Cao, C., Simin, T., &amp; Xiao, H. (2020). <a href="https://doi.org/10.1016/j.finmar.2019.100531">Predicting the equity premium with the implied volatility spread</a>. <i>Journal of Financial Markets</i>, <i>51</i>, 100531.</td>
-</tr>
-<tr>
 <td>Tue 29 Nov. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
@@ -105,6 +98,13 @@ Are American options always more expensive than European options? Evidence from 
 <td>Zoom</td>
 <td><a href="https://sites.google.com/view/jingdayan">Jingda Yan</a></td>
 <td>Overreaction to volatility shock and option returns</td>
+</tr>
+<tr>
+<td>Tue 22 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td>Shi Yi</td>
+<td>Cao, C., Simin, T., &amp; Xiao, H. (2020). <a href="https://doi.org/10.1016/j.finmar.2019.100531">Predicting the equity premium with the implied volatility spread</a>. <i>Journal of Financial Markets</i>, <i>51</i>, 100531.</td>
 </tr>
 </table>
 
