@@ -29,18 +29,11 @@ a {color: rgb(29,67,135);}
   </tr>
 </thead>
 <tr>
-<td>Tue 29 Nov. 2022
-2:00pm ~ 3:00pm</td>
-<td>OBS5.07</td>
-<td><a style="text-decoration: none;" href="https://pbeama.github.io/">Pakorn (Beam) Aschakulporn</a></td>
-<td>The Implied Volatility Smirk of Pharmaceutical Options during the COVID-19 Pandemic</td>
-</tr>
-<tr>
 <td>Tue 06 Dec. 2022
 2:00pm ~ 3:00pm</td>
 <td>OBS5.07</td>
-<td>TBD</td>
-<td>TBD</td>
+<td><a href="https://www.otago.ac.nz/accountancyfinance/staff/people/ruan.html">Xinfeng (Edwin) Ruan</a></td>
+<td>Dissecting tail risk concerns: Do they really capture jumps?</td>
 </tr>
 <tr>
 <td></td>
@@ -105,6 +98,13 @@ Are American options always more expensive than European options? Evidence from 
 <td>OBS5.07</td>
 <td>Shi Yi</td>
 <td>Cao, C., Simin, T., &amp; Xiao, H. (2020). <a href="https://doi.org/10.1016/j.finmar.2019.100531">Predicting the equity premium with the implied volatility spread</a>. <i>Journal of Financial Markets</i>, <i>51</i>, 100531.</td>
+</tr>
+<tr>
+<td>Tue 29 Nov. 2022
+2:00pm ~ 3:00pm</td>
+<td>OBS5.07</td>
+<td><a style="text-decoration: none;" href="https://pbeama.github.io/">Pakorn (Beam) Aschakulporn</a></td>
+<td>The Implied Volatility Smirk of Pharmaceutical Options during the COVID-19 Pandemic</td>
 </tr>
 </table>
 
