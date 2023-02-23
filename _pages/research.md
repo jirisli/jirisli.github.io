@@ -13,6 +13,9 @@ Li, Jianhui, Sebastian A. Gehricke, and Jin E. Zhang, 2019, How do US options tr
 
 ## Conferences
 
+27th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 16 - 17 February 2023, Victoria University Wellington, Wellington, New Zealand.
+- Presentor
+
 26th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, Universiry of Canterbury, Christchurch, New Zealand.
 - Presentor
 
