@@ -3,7 +3,7 @@ permalink: /service/
 title: "Service"
 ---
 
-Chair of the Derivatives and Quantitative Finance Group (DQFG) meetings
+Meeting Manager of the Derivatives and Quantitative Finance Group (DQFG) meetings
 
 <h2 style="text-align:center">Current Events</h2>
 
