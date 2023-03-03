@@ -5,9 +5,9 @@ title: "Research"
 
 ## Publications
 
-Li, Jianhui, Xinfeng Ruan, and Jin E. Zhang, 2022, The price of COVID-19-induced uncertainty in the options market, *Economics Letters* 211, 110265, [doi:10.1016/j.econlet.2021.110265](https://doi.org/10.1016/j.econlet.2021.110265)
+Li, Jianhui, Xinfeng Ruan, Sebastian A. Gehricke, and Jin E. Zhang, 2022, The COVID-19 risk in the Chinese option market, *International Review of Finance* 22(2), 346-355, [doi:10.1111/irfi.12365](https://doi.org/10.1111/irfi.12365)
 
-Li, Jianhui, Xinfeng Ruan, Sebastian A. Gehricke, and Jin E. Zhang, 2021, The COVID-19 risk in the Chinese option market, *International Review of Finance* 22(2), 346-355, [doi:10.1111/irfi.12365](https://doi.org/10.1111/irfi.12365)
+Li, Jianhui, Xinfeng Ruan, and Jin E. Zhang, 2022, The price of COVID-19-induced uncertainty in the options market, *Economics Letters* 211, 110265, [doi:10.1016/j.econlet.2021.110265](https://doi.org/10.1016/j.econlet.2021.110265)
 
 Li, Jianhui, Sebastian A. Gehricke, and Jin E. Zhang, 2019, How do US options traders “smirk” on China? Evidence from FXI options, *Journal of Futures Markets* 39(11), 1450-1470, [doi:10.1002/fut.22005](https://doi.org/10.1002/fut.22005)
 
