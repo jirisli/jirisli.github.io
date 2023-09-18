@@ -5,6 +5,8 @@ title: "Research"
 
 ## Publications
 
+Li, Jianhui, Erdinc Akyildirimb, Thomas Conlond, and Shaen Corbet, 2023, Corporate Reputational Dynamics and Their Impact on Global Commodity Markets, *Working paper*.
+
 Li, Jianhui, Xinfeng Ruan, Sebastian A. Gehricke, and Jin E. Zhang, 2022, The COVID-19 risk in the Chinese option market, *International Review of Finance* 22(2), 346-355, [doi:10.1111/irfi.12365](https://doi.org/10.1111/irfi.12365)
 
 Li, Jianhui, Xinfeng Ruan, and Jin E. Zhang, 2022, The price of COVID-19-induced uncertainty in the options market, *Economics Letters* 211, 110265, [doi:10.1016/j.econlet.2021.110265](https://doi.org/10.1016/j.econlet.2021.110265)
