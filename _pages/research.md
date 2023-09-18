@@ -13,7 +13,7 @@ Li, Jianhui, Sebastian A. Gehricke, and Jin E. Zhang, 2019, How do US options tr
 
 ## Working papers
 
-Li, Jianhui, Erdinc Akyildirimb, Thomas Conlond, and Shaen Corbet, 2023, Corporate Reputational Dynamics and Their Impact on Global Commodity Markets.
+Li, Jianhui, Erdinc Akyildirimb, Thomas Conlond, and Shaen Corbet, 2023, Corporate reputational dynamics and their impact on global commodity markets.
 
 Li, Jianhui, Xinfeng Ruan, and Jin E. Zhang, 2023, COVID-19 tail risk.
 
